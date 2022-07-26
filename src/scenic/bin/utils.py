@@ -8,7 +8,7 @@ from typing import List
 import gzip
 import loompy as lp
 import pandas as pd
-from pyscenic.genesig import GeneSignature
+from ctxcore.genesig import GeneSignature
 from pyscenic.transform import COLUMN_NAME_CONTEXT, COLUMN_NAME_TARGET_GENES
 
 
